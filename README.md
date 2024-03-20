@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on full stack
 - 🌱 I’m currently learning machine learning and dsa
-- 👯 I’m looking to collaborate on full stack
+- 👯 I’m looking to collaborate on full stack or java
 - 🤔 I’m looking for help with ds
 - 📫 How to reach me: radhikakhattar07@gmail.com
 
