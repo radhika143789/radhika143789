@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Radhika Khattar 👋</h1>
 
 <p align="center">
-  <b>Full Stack Engineer · Cybersecurity Enthusiast · AI/ML Explorer</b><br/>
+  <b>Full Stack Engineer  · AI/ML Explorer</b><br/>
   <i>Building scalable, standards-aligned software — one commit at a time.</i>
 </p>
 
