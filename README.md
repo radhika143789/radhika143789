@@ -65,7 +65,7 @@ I'm a postgraduate software developer (MCA, 2025) based in **New Delhi, India**,
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🟢 Full Stack Engineer | **TrustIQ** | Sep 2025 – Present |
+| 🟢 Full Stack Engineer | **TrustIQ** | Sep 2025 – April 2026 |
 | 🟣 AI Intern | **_VOIS (Vodafone Intelligent Solutions)** | May 2024 – Jun 2024 |
 | 🟣 AI Intern | **TUBLIAN** | May 2024 – Jun 2024 |
 
