@@ -22,7 +22,7 @@
 
 Full-stack engineer shipping production code. I build React frontends, Python backends, and everything in between. Currently at **TrustIQ** building ESG reporting platforms. I care about clean architecture, measurable impact, and shipping features that users actually need.
 
-**Currently:** Full Stack Engineer @ TrustIQ *(Sep 2024 – Present)*  
+**Currently:** Full Stack Engineer @ TrustIQ *(Sep 2024 – April 2026)*  
 **Education:** MCA, JIMS Rohini, New Delhi *(2023 – 2025)*  
 **Location:** New Delhi, India 🇮🇳  
 
