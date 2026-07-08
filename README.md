@@ -75,7 +75,7 @@ Full-stack engineer shipping production code. I build React frontends, Python ba
           <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/radhika143789/GhostForm" target="_blank">
+          <a href="https://github.com/radhika143789/Ghost-Form" target="_blank">
             <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
           </a>
         </p>
